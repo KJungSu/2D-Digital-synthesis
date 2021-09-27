@@ -3,3 +3,27 @@ Color correction is a process used in stage lighting, photography, television, c
 Without color correction gels, a scene may have a mix of various colors. Applying color correction gels in front of light sources can alter the color of the various light sources to match. Mixed lighting can produce an undesirable aesthetic when displayed on a television or in a theatre.
 
 Conversely, gels may also be used to make a scene appear more natural by simulating the mix of color temperatures that occur naturally. This application is useful, especially where motivated lighting (lending the impression that it is diegetic) is the goal. Color gels may also be used to tint lights for artistic effect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Color_correction
